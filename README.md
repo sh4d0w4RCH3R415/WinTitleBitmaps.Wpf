@@ -4,4 +4,4 @@ A WPF-framework version of the original project "WinTitleBitmaps". I have copy/p
 Do note: ***This library works ONLY with WPF and NOT WinForms***.
 
 ## Download
-[Standalone](https://github.com/sh4d0w4RCH3R415/WinTitleBitmaps.Wpf/releases/download/1.0/WinTitleBitmaps.Wpf.dll)
+[Standalone](https://github.com/sh4d0w4RCH3R415/WinTitleBitmaps.Wpf/releases/latest/download/WinTitleBitmaps.Wpf.dll)
